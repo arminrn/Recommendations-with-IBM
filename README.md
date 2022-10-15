@@ -14,7 +14,7 @@ Matplotlib
 
 Pickle
 
-File descriptions
+# File descriptions
 
 Recommendations_with_IBM.ipynb: Jupyter notebook containing main implementation and analysis.
 Recommendations_with_IBM.html: A copy of Recommendations_with_IBM.ipynb in html format.
