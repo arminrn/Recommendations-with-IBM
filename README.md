@@ -25,7 +25,11 @@ data/articles_community.csv: Csv file with indexed items.
 The project is organized along the following steps:
 
 I. Exploratory Data Analysis
+
 II. Rank Based Recommendations
+
 III. User-User Based Collaborative Filtering
+
 IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
+
 V. Matrix Factorization
